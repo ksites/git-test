@@ -1,2 +1,3 @@
 hi there this is kamaljit singh i am here trying to learn programming which seams pretty hard
 hi im here making another change which i want to push it to the github
+ok finally i am started to get more friendly with how git works and things are making sense to me !
